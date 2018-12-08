@@ -1,0 +1,86 @@
+{
+    "listClassDTO": [
+        {
+            "id": 4405,
+            "billNo": "4606702",
+            "currency": "CLP",
+            "dateEndBill": "30/11/2018",
+            "dateStartBill": "01/11/2018",
+            "dom": 1,
+            "totalAdjusted": 0.0,
+            "totalDue": 1.799
+        },
+        {
+            "id": 3905,
+            "billNo": "4606201",
+            "currency": "CLP",
+            "dateEndBill": "30/10/2018",
+            "dateStartBill": "01/10/2018",
+            "dom": 1,
+            "totalAdjusted": 0.0,
+            "totalDue": 1.799
+        },
+        {
+            "id": 3404,
+            "billNo": "4605514",
+            "currency": "CLP",
+            "dateEndBill": "30/09/2018",
+            "dateStartBill": "01/09/2018",
+            "dom": 1,
+            "totalAdjusted": 0.0,
+            "totalDue": 1.799
+        },
+        {
+            "id": 2913,
+            "billNo": "4605187",
+            "currency": "CLP",
+            "dateEndBill": "30/08/2018",
+            "dateStartBill": "01/08/2018",
+            "dom": 1,
+            "totalAdjusted": 0.0,
+            "totalDue": 1.799
+        },
+        {
+            "id": 2408,
+            "billNo": "4604682",
+            "currency": "CLP",
+            "dateEndBill": "31/07/2018",
+            "dateStartBill": "01/07/2018",
+            "dom": 1,
+            "totalAdjusted": 0.0,
+            "totalDue": 1.799
+        },
+        {
+            "id": 501,
+            "billNo": "500",
+            "currency": "CLP",
+            "dateEndBill": "31/05/2018",
+            "dateStartBill": "01/05/2018",
+            "dom": 1,
+            "totalAdjusted": 0.0,
+            "totalDue": 2.1408
+        },
+        {
+            "id": 1501,
+            "billNo": "1500",
+            "currency": "CLP",
+            "dateEndBill": "30/03/2018",
+            "dateStartBill": "01/03/2018",
+            "dom": 1,
+            "totalAdjusted": 0.0,
+            "totalDue": 2.1408
+        },
+        {
+            "id": 1001,
+            "billNo": "1000",
+            "currency": "CLP",
+            "dateEndBill": "28/02/2018",
+            "dateStartBill": "01/02/2018",
+            "dom": 1,
+            "totalAdjusted": 0.0,
+            "totalDue": 2.1408
+        }
+    ],
+    "code": 0,
+    "message": "Success"
+}
